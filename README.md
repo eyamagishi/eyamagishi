@@ -1,4 +1,4 @@
-# Hi 👋, I'm Etsuro
+# Hi 👋, I'm E2
 
 <!--
 **eyamagishi/eyamagishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
